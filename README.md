@@ -22,7 +22,7 @@
 ### Links
 
 - Solução no Frontend Mentorr: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-8Mg03KNTO-)
-- Projeto ao vivo: [Github pages](https://qrcodecomponent.lucylima.github.io)
+- Projeto ao vivo: [Github pages](https://lucylima.github.io/QR-Code-Component-FM/)
 
 ### Feito com
 
